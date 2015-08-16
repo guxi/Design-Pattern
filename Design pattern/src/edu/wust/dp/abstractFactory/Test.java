@@ -14,9 +14,6 @@ public class Test {
 
 	     	 Builder builder = new Builder();  
 	     	List<Sender> list=builder.produceMailSender(10);
-	     	         
-
-
 	     }  
 	 }  
 
